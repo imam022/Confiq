@@ -1,1 +1,7 @@
-{ "info": "Alhamdulillah, Kini sekrang server nya sudah kembali normal, silahkan di gass lagi !.\n\nJika kamu butuh server premium, chat saya ditelegram @SaputraTech.\n\n➣ Copyright; 2025 Skarti VPN Official" }
+{
+  "enabled": true,
+  "message": "🔥 PROMO DESEMBER: Diskon 50% untuk paket Tahunan! Gunakan kode DES50\n\n📢 Server Singapore 1 sedang maintenance hingga 3 Des 2025\n\n💥 Update aplikasi ke v2.5.1 untuk performa lebih baik!",
+  "color": "#FF0000",
+  "version_min": "2.4.0",
+  "force_update": false
+}
