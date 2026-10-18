@@ -1,1 +1,1 @@
-SSH CF Aktif: "d3184dausjayqs.cloudfront.net:443@anton:anton" Masa aktif 3 hari.
+SSH Cloudfront Aktif: "d3184dausjayqs.cloudfront.net:443@anton:anton" Masa aktif 3 hari.
