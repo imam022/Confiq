@@ -2,3 +2,4 @@ SSH Cloudfront Aktif: "d368ob7xtmdduh.cloudfront.net:443@bamar252:bamar252" Guna
 SSH Cloudfront Aktif 2 "d37bawnvqx75hf.cloudfront.net:443@danaelssh-indiahe:heindia" entah sampe kapan 🤧
 SSH Websocket "freeserver.nevpn.my.id:443@NEWBIE_19_22_Okt:Store" dapat dari group sebelah 😳
 "Semoga Bermanfaat"
+SSH Cloudfront "d307384r2s75l3.cloudfront.net:443@danaelssh-free:free9" Exp. 27 Oktober 2026
