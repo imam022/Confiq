@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.3",
-  "changelog": "- Fitur Multi-Info baris teks GitHub\n- Pembaruan tampilan transparan\n- Fitur In-App Auto Update",
-  "apkUrl": "https://raw.githubusercontent.com/imam022/Confiq/main/app-release.apk"
+  "versionCode": 4,
+  "versionName": "1.1.4",
+  "changelog": "- Penambahan fitur V2Ray SSL-Payload\n- Perbaikan Hotspot No Root\n- Perbaikan Restore Default",
+  "apkUrl": "https://github.com/imam022/Confiq/releases/download/v4/app-release.apk"
 }
