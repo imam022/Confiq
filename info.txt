@@ -1,5 +1,6 @@
-SSH Cloudfront 1 : "d368ob7xtmdduh.cloudfront.net:443@bamar252:bamar252" Gunakan dengan bijak, exp. tidak diketahui 🫠.
+KLIK PANAH KE KANAN/KE KIRI UNTUK MEMILIH AKUN, LALU KLIK TOMBOL SALIN
+SSH Cloudfront 1 : "d368ob7xtmdduh.cloudfront.net:443@jomviu252:jomviu252"
 SSH Cloudfront 2 "d37bawnvqx75hf.cloudfront.net:443@danaelssh-indiahe:heindia" entah sampe kapan 🤧
-SSH Cloudfront 3 "d37bawnvqx75hf.cloudfront.net:443@danaelssh-gratisanbae:hahaha"
-SSH Cloudfront 4 "d307384r2s75l3.cloudfront.net:443@danaelssh-free:free9" Exp. 27 Oktober 2026
+Akun V2ray 1 "vmess://eyJhZGQiOiJzZzEuY2hvc3RvcmUuYml6LmlkIiwiYWlkIjowLCJob3N0Ijoic2cxLmNob3N0b3JlLmJpei5pZCIsImlkIjoiZmViYjVmYjQtNzgwMS00ZmVmLWI2NDMtYWJkMjk0Mzg5NDE0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IlZNRVNTIiwic2N5IjoiYXV0byIsInNuaSI6Imxpc3Rlbi5ub2ljZS5pZCIsInRscyI6InRscyIsInYiOiIyIn0="
+Akun V2ray 2 "vless://b5b64f59-47ec-42f4-bdf2-9486ec07760d@free.masdpremium.biz.id:80?path=/vless&encryption=none&type=ws&host=free.masdpremium.biz.id#masdvpn"
 "Semoga Bermanfaat"
